@@ -9,7 +9,7 @@
 
 |Visit|Links|
 |-----|-----|
-|linkedin|   |
+|linkedin|<a href src="https://www.linkedin.com/posts/sahil-dudhal-1b11b925a_java-swing-project-tic-tac-toe-game-interactive-activity-7230202615052042240-f4Kh">View</a>|
 |Youtube|    |
 
 
